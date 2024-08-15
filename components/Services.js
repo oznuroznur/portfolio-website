@@ -20,7 +20,7 @@ const Services = ({ extraClass }) => {
     {
       id: 4,
       title: "API Integration",
-      text: "Implementing REST and GraphQL APIs to connect your app with external services and databases.",
+      text: "Implementing REST APIs to connect your app with external services and databases.",
     },
     {
       id: 5,

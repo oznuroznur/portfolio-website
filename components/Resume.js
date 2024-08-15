@@ -70,7 +70,7 @@ const Resume = () => {
                     <div className="content">
                       <span className="years">2021 - 2022</span>
                       <h4>Front-End Development Intern Engineer</h4>
-                      <span className="company">Eskişehir Organized Industrial Zone Directorate </span>
+                      <span className="company">sehir Organized Industrial Zone Directorate </span>
                     </div>
                   </div>
                 </div>
