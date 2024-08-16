@@ -30,9 +30,9 @@ const fontFamily = `${inter.variable} ${dm_sans.variable} `;
 export const metadata = {
   title: {
     template:
-      "Öznur | Personal Portfolio  || %s",
+      "Öznur | Personal Portfolio",
     default:
-      "Öznur | Personal Portfolio  || Home", // a default is required when creating a template
+      "Öznur | Personal Portfolio ", // a default is required when creating a template
   },
   description: "Öznur | Personal Portfolio",
 };
