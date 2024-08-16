@@ -68,7 +68,7 @@ const Skill = () => {
                   From mobile and web application development to responsive design and performance optimization, these skills represent the core of what I bring to the table as a front-end developer. Each card highlights a key area of my expertise, giving you insight into the platforms and techniques I use to create cutting-edge, scalable, and user-friendly digital experiences. Explore my technical strengths and see how I can help bring your project to life.
                   </p>
                 </div>
-                <Link legacyBehavior href="/about">
+                <Link legacyBehavior href="/contact">
                   <a className="/contact">
                     Contact Me <i className="far fa-angle-right" />
                   </a>
