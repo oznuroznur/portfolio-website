@@ -68,7 +68,7 @@ const Header1 = ({ onePageMenu }) => {
                     </Link>
                   </div>
                   {/* Toggle Button */}
-                  <button
+                 {/*  <button
                     type="button"
                     className="navbar-toggle me-4"
                     data-bs-toggle="collapse"
@@ -78,7 +78,7 @@ const Header1 = ({ onePageMenu }) => {
                     <span className="icon-bar" />
                     <span className="icon-bar" />
                     <span className="icon-bar" />
-                  </button>
+                  </button> */}
                 </div>
                 <div
                   className={`navbar-collapse collapse clearfix ${
@@ -91,7 +91,7 @@ const Header1 = ({ onePageMenu }) => {
               {/* Main Menu End*/}
             </div>
             {/* Menu Button */}
-            <div className="menu-btns d-none d-lg-block">
+            <div className="menu-btns d-block d-lg-block">
               {/* menu sidbar */}
               <div className="menu-sidebar">
                 <button onClick={() => toggleSidebar()}>
