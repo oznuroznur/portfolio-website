@@ -1,3 +1,4 @@
+"use client";
 export default function Maintenance() {
   return (
     <div className="min-h-screen w-full flex items-center justify-center bg-gradient-to-br from-[#090722] via-[#27243d] via-[#1f0c4b] to-[#1a25c2] animate-gradient bg-[length:400%_400%]">
